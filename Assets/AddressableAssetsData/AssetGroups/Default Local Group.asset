@@ -18,7 +18,7 @@ MonoBehaviour:
   m_GUID: 870c918c93d61436bb595c2a17ca4cec
   m_SerializeEntries:
   - m_GUID: c4d5282f0084f431a9b262edf34801cc
-    m_Address: Assets/Image/earth.jpeg
+    m_Address: earth
     m_ReadOnly: 0
     m_SerializedLabels: []
   m_ReadOnly: 0
